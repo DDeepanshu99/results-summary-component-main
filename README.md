@@ -41,6 +41,5 @@ This was a bit challenging for me. It was quite time consuming as well as there 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [@DDeepanshu99](https://github.com/DDeepanshu99)
+- Frontend Mentor - [@DDeepanshu99](https://www.frontendmentor.io/profile/DDeepanshu99)
